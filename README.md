@@ -126,3 +126,10 @@ NT заголовок — также известный как PE заголов
 ## PE1.dll
 
 ![step8](./assets/image8.png)
+![step9](./assets/image9.png)
+![step10](./assets/image10.png)
+
+
+## PE2.exe
+
+![step11](./assets/image11.png)
